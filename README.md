@@ -1,4 +1,4 @@
-
+<img width="2250" height="1125" alt="Front-end-Projeto Fokus" src="https://github.com/user-attachments/assets/b7b3df2c-c404-4f2a-92dc-9377d5c3fbed" />
 
 
 # Projeto Fokus
@@ -33,4 +33,5 @@ As técnicas e tecnologias utilizadas pra isso são:
 ## 📁 Acesso ao projeto
 
 Você pode acessar o resultado do projeto [aqui](https://github.com/).
+
 
