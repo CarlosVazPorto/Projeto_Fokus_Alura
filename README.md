@@ -32,6 +32,7 @@ As técnicas e tecnologias utilizadas pra isso são:
 
 ## 📁 Acesso ao projeto
 
-Você pode acessar o resultado do projeto [aqui](https://github.com/).
+Você pode acessar o resultado do projeto [aqui](https://carlosvazporto.github.io/Projeto_Fokus_Alura/).
+
 
 
